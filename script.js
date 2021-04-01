@@ -4,3 +4,10 @@ asdrweerqeeqwad //если клонируем какой то репозитоо
 //git commit -a -m"index.html mod" //значек можификации доолжен исчезнуть, добавляем сообщение
 //git push  все данные уходят в удаленый репозиторий
 zxczxc
+as
+
+as
+as
+as
+as
+assassa
