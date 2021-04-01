@@ -6,8 +6,6 @@ asdrweerqeeqwad //если клонируем какой то репозитоо
 zxczxc
 as
 
-as
-as
-as
+asqwwqqwws
 as
 assassa
